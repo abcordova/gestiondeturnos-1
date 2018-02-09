@@ -41,11 +41,10 @@ header("Location: index.php");
             </div>
             <div id="tabla" class="row">
                 <p>
-            		<form method="post" action="createClientes.php">
-            			<input name="ID_Empresa" type="hidden"  value="<?php echo $_SESSION['ID_Empresa'];?>">	
-            			<button type="submit" class="btn btn-success">Crear</button>
-                  <a class="btn" href="indexEmpresas.php">Volver</a>
-            		</form> 
+            		
+                 <a href="#modal2" class="btn btn-success" data-toggle="modal"> Crear </a>
+                 <a class="btn" href="indexEmpresas.php">Volver</a>
+            		 
                 </p>
                 <table class="table table-striped table-bordered">
                   <thead>
@@ -109,7 +108,7 @@ header("Location: index.php");
                                    <h5 class="modal-title">ACTUALIZAR CLIENTE</h5>
                             </div>       
                             <div class="modal-body">
-                                      <input type="text"  id="ClienId" name=""></input>
+                                      <input type="hide"  id="ClienId" name=""></input>
                                       <label >Nombre:</label>
                                       <input class="form-control"  type="text" id="ClienNombre"></input>
                                       <label >Apellido:</label>
@@ -129,7 +128,39 @@ header("Location: index.php");
                 </div>                 
           
           </div><!--FIN DE LA VENTANA MODAL ACTUALIZAR  -->        
-    
+         
+
+          <!--VENTANA MODAL DE CREAR-->
+          <div class="modal fade" id="modal2">
+                <div class="modal-dialog">
+                      <div class="modal-content">
+                            <div class="modal-header">
+                                   <button type "button" class="close" data-dismiss="modal" arial-label="Close">
+                                     &times;
+                                   </button>
+                                   <h5 class="modal-title">CREAR NUEVO CLIENTE</h5>
+                            </div>       
+                            <div class="modal-body">
+                                      
+                                      <label >Nombre:</label>
+                                      <input class="form-control"  type="text" id="ClienNombre2"></input>
+                                      <label >Apellido:</label>
+                                      <input class="form-control"  type="text" id="ClienApellido2"></input>
+                                      <label >Email:</label>
+                                      <input class="form-control"  type="text" id="ClienEmail2"></input>
+                                      <label >Telefono:</label>
+                                      <input class="form-control"  type="text" id="ClienTelefono2"></input>
+                                      <label >Direccion:</label>
+                                      <input class="form-control"  type="text" id="ClienDireccion2"></input>
+                            </div>      
+                            <div class="modal-footer">
+                                      <button type "button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+                                      <button type "button" class="btn btn-primary" data-dismiss="modal" id="createCliente">Guardar</button>
+                            </div>
+                      </div>               
+                </div>                 
+          
+          </div><!--FIN DE LA VENTANA MODAL CREAR --> 
     </div> <!-- /container -->
      <script type="text/javascript">
       
@@ -138,11 +169,17 @@ header("Location: index.php");
 
 
       });
-
-
     </script>        
-    
-    
+       
+    <script type="text/javascript">
+      
+      $('#createCliente').click(function(){
+        
+       createCliente();
+
+
+      });
+    </script>
       
 
     </body>

@@ -1,3 +1,45 @@
+function createCliente() {
+
+
+	  empresa=$('#EmpresaId').val(); 		
+	  nombre=$('#ClienNombre2').val();
+      apellido=$('#ClienApellido2').val();
+      email=$('#ClienEmail2').val();
+      telefono=$('#ClienTelefono2').val();
+      direccion=$('#ClienDireccion2').val();
+
+    cadena = "empresa=" + empresa +
+    		 "&nombre=" + nombre +
+			 "&apellido="+ apellido +
+			 "&email=" + email +
+			 "&telefono=" + telefono +
+			 "&direccion=" + direccion;
+
+
+
+	$.ajax({
+		type:"POST",
+		url:"createClientes.php",
+		data: cadena,
+		success:function(r){
+			if(r){
+				alertify.success("CORRECTO, Cliente creado :)");
+				$("#tabla").load(" #tabla");		
+			}else{
+				alertify.error("VERIFICAR DATOS, el cliente no se pudo crear :(");
+			}
+
+		}
+
+	})			  
+
+
+}
+
+
+
+
+
 function agregaform (datos){
 
 	d=datos.split('||');
