@@ -84,8 +84,9 @@ header("Location: index.php");
 
                           ?> 
                                 
-                               <a href="#modal1" class="btn btn-success" data-toggle="modal" onclick=agregaform('<?php echo $data ?>')> Actualizar </a>
-                                                           
+                               <a href="#modal1" class="btn btn-warning" data-toggle="modal" onclick=agregaform('<?php echo $data ?>')> Actualizar </a>
+
+                               <a href="#" class="btn btn-danger" data-toggle="modal" onclick=deleteCliente('<?php echo $rowc[0] ?>')> Borrar </a>                                                           
                 
                                </tr>
                        
@@ -169,18 +170,24 @@ header("Location: index.php");
 
 
       });
-    </script>        
-       
-    <script type="text/javascript">
-      
+
       $('#createCliente').click(function(){
         
        createCliente();
 
 
       });
-    </script>
-      
+
+
+      $('#deleteCliente').click(function(){
+        
+       deleteCliente();
+
+
+      });
+    </script>        
+       
+    
 
     </body>
 </html>

@@ -1,3 +1,27 @@
+function deleteCliente(id){
+	idc = "idc=" + id;
+
+	$.ajax({
+		type:"POST",
+		url:"deleteClientes.php",
+		data: idc,
+		success:function(r){
+			if(r==''){
+				alertify.success("CORRECTO, Cliente eliminado :)");
+				$("#tabla").load(" #tabla");		
+			}else{
+				alertify.error("El cliente no se pudo eliminar :(");
+			}
+
+		}
+
+	})			  
+
+
+}
+
+
+
 function createCliente() {
 
 
@@ -8,7 +32,7 @@ function createCliente() {
       telefono=$('#ClienTelefono2').val();
       direccion=$('#ClienDireccion2').val();
 
-    cadena = "empresa=" + empresa +
+    	cadena = "empresa=" + empresa +
     		 "&nombre=" + nombre +
 			 "&apellido="+ apellido +
 			 "&email=" + email +
@@ -26,7 +50,7 @@ function createCliente() {
 				alertify.success("CORRECTO, Cliente creado :)");
 				$("#tabla").load(" #tabla");		
 			}else{
-				alertify.error("VERIFICAR DATOS, el cliente no se pudo crear :(");
+				alertify.error("VERIFICAR DATOS, el cliente no se puede crear :(");
 			}
 
 		}
@@ -35,9 +59,6 @@ function createCliente() {
 
 
 }
-
-
-
 
 
 function agregaform (datos){

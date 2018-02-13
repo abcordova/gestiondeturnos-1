@@ -1,0 +1,472 @@
+[15-Jan-2018 11:46:27 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/administrator/turns.aldamada.com.ar/indexSucursales.php on line 43
+[15-Jan-2018 11:46:37 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'ID_Empresa' cannot be null' in /home2/administrator/turns.aldamada.com.ar/createSucursales.php:29
+Stack trace:
+#0 /home2/administrator/turns.aldamada.com.ar/createSucursales.php(29): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home2/administrator/turns.aldamada.com.ar/createSucursales.php on line 29
+[15-Jan-2018 11:50:33 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/administrator/turns.aldamada.com.ar/indexSucursales.php on line 43
+[15-Jan-2018 11:50:40 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'ID_Empresa' cannot be null' in /home2/administrator/turns.aldamada.com.ar/createSucursales.php:29
+Stack trace:
+#0 /home2/administrator/turns.aldamada.com.ar/createSucursales.php(29): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home2/administrator/turns.aldamada.com.ar/createSucursales.php on line 29
+[15-Jan-2018 11:50:57 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/administrator/turns.aldamada.com.ar/indexSucursales.php on line 43
+[15-Jan-2018 11:53:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/administrator/turns.aldamada.com.ar/indexSucursales.php on line 43
+[15-Jan-2018 11:53:59 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'ID_Empresa' cannot be null' in /home2/administrator/turns.aldamada.com.ar/createSucursales.php:29
+Stack trace:
+#0 /home2/administrator/turns.aldamada.com.ar/createSucursales.php(29): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home2/administrator/turns.aldamada.com.ar/createSucursales.php on line 29
+[15-Jan-2018 11:54:59 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/administrator/turns.aldamada.com.ar/indexSucursales.php on line 43
+[15-Jan-2018 12:20:36 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/administrator/turns.aldamada.com.ar/indexClientes.php on line 47
+[15-Jan-2018 12:21:13 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/administrator/turns.aldamada.com.ar/indexUsuarios.php on line 47
+[15-Jan-2018 12:23:58 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/administrator/turns.aldamada.com.ar/indexClientes.php on line 47
+[15-Jan-2018 12:24:13 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'hashtelefono' in 'field list'' in /home2/administrator/turns.aldamada.com.ar/createClientes.php:49
+Stack trace:
+#0 /home2/administrator/turns.aldamada.com.ar/createClientes.php(49): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home2/administrator/turns.aldamada.com.ar/createClientes.php on line 49
+[15-Jan-2018 12:24:37 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/administrator/turns.aldamada.com.ar/indexClientes.php on line 47
+[15-Jan-2018 12:24:46 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/administrator/turns.aldamada.com.ar/indexSucursales.php on line 43
+[15-Jan-2018 12:29:15 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/administrator/turns.aldamada.com.ar/indexUsuarios.php on line 47
+[15-Jan-2018 23:16:05 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/administrator/turns.aldamada.com.ar/indexSucursales.php on line 43
+[15-Jan-2018 23:16:38 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/administrator/turns.aldamada.com.ar/indexSucursales.php on line 43
+[15-Jan-2018 23:26:05 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/administrator/turns.aldamada.com.ar/indexSucursales.php on line 43
+[15-Jan-2018 23:26:12 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'ID_Empresa' cannot be null' in /home2/administrator/turns.aldamada.com.ar/createSucursales.php:29
+Stack trace:
+#0 /home2/administrator/turns.aldamada.com.ar/createSucursales.php(29): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home2/administrator/turns.aldamada.com.ar/createSucursales.php on line 29
+[15-Jan-2018 23:27:15 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/administrator/turns.aldamada.com.ar/indexSucursales.php on line 43
+[15-Jan-2018 23:34:57 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/administrator/turns.aldamada.com.ar/indexSucursales.php on line 43
+[15-Jan-2018 23:35:12 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'ID_Empresa' cannot be null' in /home2/administrator/turns.aldamada.com.ar/createSucursales.php:29
+Stack trace:
+#0 /home2/administrator/turns.aldamada.com.ar/createSucursales.php(29): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home2/administrator/turns.aldamada.com.ar/createSucursales.php on line 29
+[15-Jan-2018 23:44:52 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/administrator/turns.aldamada.com.ar/indexSucursales.php on line 43
+[15-Jan-2018 23:47:00 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/administrator/turns.aldamada.com.ar/indexSucursales.php on line 43
+[15-Jan-2018 23:47:41 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/administrator/turns.aldamada.com.ar/indexSucursales.php on line 43
+[15-Jan-2018 23:52:10 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/administrator/turns.aldamada.com.ar/indexSucursales.php on line 44
+[15-Jan-2018 23:52:41 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/administrator/turns.aldamada.com.ar/indexSucursales.php on line 44
+[15-Jan-2018 23:53:35 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/administrator/turns.aldamada.com.ar/indexSucursales.php on line 44
+[15-Jan-2018 23:54:23 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/administrator/turns.aldamada.com.ar/indexSucursales.php on line 43
+[15-Jan-2018 23:54:32 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'ID_Empresa' cannot be null' in /home2/administrator/turns.aldamada.com.ar/createSucursales.php:29
+Stack trace:
+#0 /home2/administrator/turns.aldamada.com.ar/createSucursales.php(29): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home2/administrator/turns.aldamada.com.ar/createSucursales.php on line 29
+[15-Jan-2018 23:55:08 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/administrator/turns.aldamada.com.ar/indexSucursales.php on line 43
+[15-Jan-2018 23:55:43 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/administrator/turns.aldamada.com.ar/indexSucursales.php on line 43
+[15-Jan-2018 23:55:49 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'ID_Empresa' cannot be null' in /home2/administrator/turns.aldamada.com.ar/createSucursales.php:29
+Stack trace:
+#0 /home2/administrator/turns.aldamada.com.ar/createSucursales.php(29): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home2/administrator/turns.aldamada.com.ar/createSucursales.php on line 29
+[15-Jan-2018 23:57:33 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/administrator/turns.aldamada.com.ar/indexSucursales.php on line 43
+[15-Jan-2018 23:57:35 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home2/administrator/turns.aldamada.com.ar/createSucursales.php on line 27
+[15-Jan-2018 23:57:41 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home2/administrator/turns.aldamada.com.ar/createSucursales.php on line 27
+[15-Jan-2018 23:59:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/administrator/turns.aldamada.com.ar/indexSucursales.php on line 43
+[15-Jan-2018 23:59:55 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'ID_Empresa' cannot be null' in /home2/administrator/turns.aldamada.com.ar/createSucursales.php:29
+Stack trace:
+#0 /home2/administrator/turns.aldamada.com.ar/createSucursales.php(29): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home2/administrator/turns.aldamada.com.ar/createSucursales.php on line 29
+[16-Jan-2018 00:00:06 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/administrator/turns.aldamada.com.ar/indexSucursales.php on line 43
+[16-Jan-2018 00:01:56 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/administrator/turns.aldamada.com.ar/indexSucursales.php on line 43
+[16-Jan-2018 00:02:03 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'ID_Empresa' cannot be null' in /home2/administrator/turns.aldamada.com.ar/createSucursales.php:29
+Stack trace:
+#0 /home2/administrator/turns.aldamada.com.ar/createSucursales.php(29): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home2/administrator/turns.aldamada.com.ar/createSucursales.php on line 29
+[16-Jan-2018 00:04:06 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'ID_Empresa' cannot be null' in /home2/administrator/turns.aldamada.com.ar/createSucursales.php:29
+Stack trace:
+#0 /home2/administrator/turns.aldamada.com.ar/createSucursales.php(29): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home2/administrator/turns.aldamada.com.ar/createSucursales.php on line 29
+[16-Jan-2018 00:07:39 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'ID_Empresa' cannot be null' in /home2/administrator/turns.aldamada.com.ar/createSucursales.php:29
+Stack trace:
+#0 /home2/administrator/turns.aldamada.com.ar/createSucursales.php(29): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home2/administrator/turns.aldamada.com.ar/createSucursales.php on line 29
+[16-Jan-2018 00:08:50 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/administrator/turns.aldamada.com.ar/indexSucursales.php on line 43
+[16-Jan-2018 00:12:25 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'ID_Empresa' cannot be null' in /home2/administrator/turns.aldamada.com.ar/createSucursales.php:29
+Stack trace:
+#0 /home2/administrator/turns.aldamada.com.ar/createSucursales.php(29): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home2/administrator/turns.aldamada.com.ar/createSucursales.php on line 29
+[16-Jan-2018 00:13:33 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'ID_Empresa' cannot be null' in /home2/administrator/turns.aldamada.com.ar/createSucursales.php:29
+Stack trace:
+#0 /home2/administrator/turns.aldamada.com.ar/createSucursales.php(29): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home2/administrator/turns.aldamada.com.ar/createSucursales.php on line 29
+[16-Jan-2018 01:25:49 UTC] PHP Parse error:  syntax error, unexpected '$valid' (T_VARIABLE), expecting ',' or ';' in /home2/administrator/turns.aldamada.com.ar/createSucursales.php on line 15
+[16-Jan-2018 01:26:01 UTC] PHP Parse error:  syntax error, unexpected '$valid' (T_VARIABLE), expecting ',' or ';' in /home2/administrator/turns.aldamada.com.ar/createSucursales.php on line 15
+[16-Jan-2018 01:27:06 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'ID_Empresa' cannot be null' in /home2/administrator/turns.aldamada.com.ar/createSucursales.php:29
+Stack trace:
+#0 /home2/administrator/turns.aldamada.com.ar/createSucursales.php(29): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home2/administrator/turns.aldamada.com.ar/createSucursales.php on line 29
+[16-Jan-2018 01:27:23 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'ID_Empresa' cannot be null' in /home2/administrator/turns.aldamada.com.ar/createSucursales.php:29
+Stack trace:
+#0 /home2/administrator/turns.aldamada.com.ar/createSucursales.php(29): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home2/administrator/turns.aldamada.com.ar/createSucursales.php on line 29
+[16-Jan-2018 01:30:46 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'ID_Empresa' cannot be null' in /home2/administrator/turns.aldamada.com.ar/createSucursales.php:29
+Stack trace:
+#0 /home2/administrator/turns.aldamada.com.ar/createSucursales.php(29): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home2/administrator/turns.aldamada.com.ar/createSucursales.php on line 29
+[16-Jan-2018 01:34:07 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'ID_Empresa' cannot be null' in /home2/administrator/turns.aldamada.com.ar/createSucursales.php:29
+Stack trace:
+#0 /home2/administrator/turns.aldamada.com.ar/createSucursales.php(29): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home2/administrator/turns.aldamada.com.ar/createSucursales.php on line 29
+[16-Jan-2018 01:42:03 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'ID_Empresa' cannot be null' in /home2/administrator/turns.aldamada.com.ar/createSucursales.php:29
+Stack trace:
+#0 /home2/administrator/turns.aldamada.com.ar/createSucursales.php(29): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home2/administrator/turns.aldamada.com.ar/createSucursales.php on line 29
+[16-Jan-2018 01:48:28 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/administrator/turns.aldamada.com.ar/indexSucursales.php on line 44
+[16-Jan-2018 01:48:32 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/administrator/turns.aldamada.com.ar/indexSucursales.php on line 44
+[16-Jan-2018 01:49:46 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/administrator/turns.aldamada.com.ar/indexSucursales.php on line 44
+[16-Jan-2018 01:53:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/administrator/turns.aldamada.com.ar/indexSucursales.php on line 44
+[16-Jan-2018 01:57:40 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home2/administrator/turns.aldamada.com.ar/indexSucursales.php on line 10
+[16-Jan-2018 01:58:23 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/administrator/turns.aldamada.com.ar/indexSucursales.php on line 44
+[16-Jan-2018 02:09:03 UTC] PHP Parse error:  syntax error, unexpected 'ORDER' (T_STRING) in /home2/administrator/turns.aldamada.com.ar/indexSucursales.php on line 43
+[16-Jan-2018 02:10:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/administrator/turns.aldamada.com.ar/indexSucursales.php on line 44
+[16-Jan-2018 02:10:32 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/administrator/turns.aldamada.com.ar/indexSucursales.php on line 44
+[16-Jan-2018 02:10:36 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/administrator/turns.aldamada.com.ar/indexSucursales.php on line 44
+[16-Jan-2018 02:10:39 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/administrator/turns.aldamada.com.ar/indexSucursales.php on line 44
+[16-Jan-2018 02:26:08 UTC] PHP Parse error:  syntax error, unexpected '.' in /home2/administrator/turns.aldamada.com.ar/indexSucursales.php on line 29
+[16-Jan-2018 02:26:48 UTC] PHP Parse error:  syntax error, unexpected '.' in /home2/administrator/turns.aldamada.com.ar/indexSucursales.php on line 29
+[16-Jan-2018 02:26:52 UTC] PHP Parse error:  syntax error, unexpected '.' in /home2/administrator/turns.aldamada.com.ar/indexSucursales.php on line 29
+[16-Jan-2018 02:35:40 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'IDEmpresaS' in 'field list'' in /home2/administrator/turns.aldamada.com.ar/createSucursales.php:28
+Stack trace:
+#0 /home2/administrator/turns.aldamada.com.ar/createSucursales.php(28): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home2/administrator/turns.aldamada.com.ar/createSucursales.php on line 28
+[16-Jan-2018 02:37:58 UTC] PHP Parse error:  syntax error, unexpected '$valid' (T_VARIABLE) in /home2/administrator/turns.aldamada.com.ar/createSucursales.php on line 14
+[16-Jan-2018 02:38:01 UTC] PHP Parse error:  syntax error, unexpected '$valid' (T_VARIABLE) in /home2/administrator/turns.aldamada.com.ar/createSucursales.php on line 14
+[16-Jan-2018 02:38:06 UTC] PHP Parse error:  syntax error, unexpected '$valid' (T_VARIABLE) in /home2/administrator/turns.aldamada.com.ar/createSucursales.php on line 14
+[16-Jan-2018 02:38:31 UTC] PHP Parse error:  syntax error, unexpected '$valid' (T_VARIABLE) in /home2/administrator/turns.aldamada.com.ar/createSucursales.php on line 14
+[16-Jan-2018 02:40:20 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'ID_Empresa' cannot be null' in /home2/administrator/turns.aldamada.com.ar/createSucursales.php:28
+Stack trace:
+#0 /home2/administrator/turns.aldamada.com.ar/createSucursales.php(28): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home2/administrator/turns.aldamada.com.ar/createSucursales.php on line 28
+[16-Jan-2018 02:42:59 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/administrator/turns.aldamada.com.ar/indexSucursales.php on line 45
+[16-Jan-2018 02:47:00 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/administrator/turns.aldamada.com.ar/indexSucursales.php on line 45
+[16-Jan-2018 02:49:10 UTC] PHP Parse error:  syntax error, unexpected ')' in /home2/administrator/turns.aldamada.com.ar/createSucursales.php on line 31
+[16-Jan-2018 02:56:08 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/administrator/turns.aldamada.com.ar/indexUsuarios.php on line 47
+[18-Jan-2018 23:20:48 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/administrator/turns.aldamada.com.ar/indexClientes.php on line 47
+[19-Jan-2018 00:05:20 UTC] PHP Parse error:  syntax error, unexpected '$ID_Empresa' (T_VARIABLE) in /home2/administrator/turns.aldamada.com.ar/indexClientes.php on line 46
+[19-Jan-2018 00:05:23 UTC] PHP Parse error:  syntax error, unexpected '$ID_Empresa' (T_VARIABLE) in /home2/administrator/turns.aldamada.com.ar/indexClientes.php on line 46
+[19-Jan-2018 00:06:03 UTC] PHP Parse error:  syntax error, unexpected '$ID_Empresa' (T_VARIABLE) in /home2/administrator/turns.aldamada.com.ar/indexClientes.php on line 46
+[19-Jan-2018 00:06:08 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/administrator/turns.aldamada.com.ar/indexUsuarios.php on line 47
+[19-Jan-2018 00:06:11 UTC] PHP Parse error:  syntax error, unexpected '$ID_Empresa' (T_VARIABLE) in /home2/administrator/turns.aldamada.com.ar/indexClientes.php on line 46
+[19-Jan-2018 00:06:30 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/administrator/turns.aldamada.com.ar/indexClientes.php on line 47
+[19-Jan-2018 00:06:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/administrator/turns.aldamada.com.ar/indexClientes.php on line 47
+[19-Jan-2018 00:06:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/administrator/turns.aldamada.com.ar/indexClientes.php on line 47
+[19-Jan-2018 01:08:05 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/administrator/turns.aldamada.com.ar/indexClientes.php on line 47
+[19-Jan-2018 01:08:16 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/administrator/turns.aldamada.com.ar/indexClientes.php on line 47
+[19-Jan-2018 01:10:23 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/administrator/turns.aldamada.com.ar/indexClientes.php on line 47
+[19-Jan-2018 01:12:08 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/administrator/turns.aldamada.com.ar/indexClientes.php on line 47
+[19-Jan-2018 01:12:11 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/administrator/turns.aldamada.com.ar/indexClientes.php on line 47
+[19-Jan-2018 01:12:22 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/administrator/turns.aldamada.com.ar/indexClientes.php on line 47
+[19-Jan-2018 01:13:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/administrator/turns.aldamada.com.ar/indexClientes.php on line 47
+[19-Jan-2018 01:13:58 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/administrator/turns.aldamada.com.ar/indexClientes.php on line 47
+[19-Jan-2018 01:30:05 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/administrator/turns.aldamada.com.ar/indexClientes.php on line 47
+[19-Jan-2018 01:30:05 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/administrator/turns.aldamada.com.ar/indexClientes.php on line 47
+[19-Jan-2018 01:30:14 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/administrator/turns.aldamada.com.ar/indexClientes.php on line 47
+[19-Jan-2018 01:30:18 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/administrator/turns.aldamada.com.ar/indexClientes.php on line 47
+[19-Jan-2018 01:30:30 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/administrator/turns.aldamada.com.ar/indexClientes.php on line 47
+[19-Jan-2018 02:29:22 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/administrator/turns.aldamada.com.ar/indexClientes.php on line 47
+[19-Jan-2018 02:29:36 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/administrator/turns.aldamada.com.ar/indexClientes.php on line 47
+[19-Jan-2018 02:29:43 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/administrator/turns.aldamada.com.ar/indexClientes.php on line 47
+[19-Jan-2018 02:38:18 UTC] PHP Parse error:  syntax error, unexpected ':', expecting ',' or ';' in /home2/administrator/turns.aldamada.com.ar/indexClientes.php on line 30
+[19-Jan-2018 02:59:48 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/administrator/turns.aldamada.com.ar/indexClientes.php on line 51
+[19-Jan-2018 03:24:20 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'hashtelefono' in 'field list'' in /home2/administrator/turns.aldamada.com.ar/createClientes.php:49
+Stack trace:
+#0 /home2/administrator/turns.aldamada.com.ar/createClientes.php(49): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home2/administrator/turns.aldamada.com.ar/createClientes.php on line 49
+[19-Jan-2018 03:25:16 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'hashtelefono' in 'field list'' in /home2/administrator/turns.aldamada.com.ar/createClientes.php:49
+Stack trace:
+#0 /home2/administrator/turns.aldamada.com.ar/createClientes.php(49): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home2/administrator/turns.aldamada.com.ar/createClientes.php on line 49
+[19-Jan-2018 03:28:00 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/administrator/turns.aldamada.com.ar/indexClientes.php on line 51
+[19-Jan-2018 03:34:01 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/administrator/turns.aldamada.com.ar/indexSucursales.php on line 46
+[19-Jan-2018 03:34:37 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/administrator/turns.aldamada.com.ar/indexClientes.php on line 51
+[19-Jan-2018 03:41:11 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/administrator/turns.aldamada.com.ar/indexClientes.php on line 51
+[19-Jan-2018 03:51:41 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/administrator/turns.aldamada.com.ar/indexClientes.php on line 51
+[19-Jan-2018 03:53:24 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/administrator/turns.aldamada.com.ar/indexClientes.php on line 51
+[23-Jan-2018 19:50:02 UTC] PHP Parse error:  syntax error, unexpected 'eregi_replace' (T_STRING), expecting ',' or ';' in /home2/administrator/turns.aldamada.com.ar/indexEmpresas.php on line 45
+[23-Jan-2018 19:50:05 UTC] PHP Parse error:  syntax error, unexpected 'eregi_replace' (T_STRING), expecting ',' or ';' in /home2/administrator/turns.aldamada.com.ar/indexEmpresas.php on line 45
+[23-Jan-2018 19:50:44 UTC] PHP Deprecated:  Function eregi_replace() is deprecated in /home2/administrator/turns.aldamada.com.ar/indexEmpresas.php on line 49
+[23-Jan-2018 19:50:44 UTC] PHP Warning:  eregi_replace() expects exactly 3 parameters, 1 given in /home2/administrator/turns.aldamada.com.ar/indexEmpresas.php on line 49
+[23-Jan-2018 19:50:44 UTC] PHP Deprecated:  Function eregi_replace() is deprecated in /home2/administrator/turns.aldamada.com.ar/indexEmpresas.php on line 49
+[23-Jan-2018 19:50:44 UTC] PHP Warning:  eregi_replace() expects exactly 3 parameters, 1 given in /home2/administrator/turns.aldamada.com.ar/indexEmpresas.php on line 49
+[23-Jan-2018 19:50:44 UTC] PHP Deprecated:  Function eregi_replace() is deprecated in /home2/administrator/turns.aldamada.com.ar/indexEmpresas.php on line 49
+[23-Jan-2018 19:50:44 UTC] PHP Warning:  eregi_replace() expects exactly 3 parameters, 1 given in /home2/administrator/turns.aldamada.com.ar/indexEmpresas.php on line 49
+[23-Jan-2018 19:52:19 UTC] PHP Deprecated:  Function eregi_replace() is deprecated in /home2/administrator/turns.aldamada.com.ar/indexEmpresas.php on line 49
+[23-Jan-2018 19:52:19 UTC] PHP Warning:  eregi_replace(): REG_EBRACK in /home2/administrator/turns.aldamada.com.ar/indexEmpresas.php on line 49
+[23-Jan-2018 19:52:19 UTC] PHP Deprecated:  Function eregi_replace() is deprecated in /home2/administrator/turns.aldamada.com.ar/indexEmpresas.php on line 49
+[23-Jan-2018 19:52:19 UTC] PHP Warning:  eregi_replace(): REG_EBRACK in /home2/administrator/turns.aldamada.com.ar/indexEmpresas.php on line 49
+[23-Jan-2018 19:52:19 UTC] PHP Deprecated:  Function eregi_replace() is deprecated in /home2/administrator/turns.aldamada.com.ar/indexEmpresas.php on line 49
+[23-Jan-2018 19:52:19 UTC] PHP Warning:  eregi_replace(): REG_EBRACK in /home2/administrator/turns.aldamada.com.ar/indexEmpresas.php on line 49
+[23-Jan-2018 19:52:21 UTC] PHP Deprecated:  Function eregi_replace() is deprecated in /home2/administrator/turns.aldamada.com.ar/indexEmpresas.php on line 49
+[23-Jan-2018 19:52:21 UTC] PHP Warning:  eregi_replace(): REG_EBRACK in /home2/administrator/turns.aldamada.com.ar/indexEmpresas.php on line 49
+[23-Jan-2018 19:52:21 UTC] PHP Deprecated:  Function eregi_replace() is deprecated in /home2/administrator/turns.aldamada.com.ar/indexEmpresas.php on line 49
+[23-Jan-2018 19:52:21 UTC] PHP Warning:  eregi_replace(): REG_EBRACK in /home2/administrator/turns.aldamada.com.ar/indexEmpresas.php on line 49
+[23-Jan-2018 19:52:21 UTC] PHP Deprecated:  Function eregi_replace() is deprecated in /home2/administrator/turns.aldamada.com.ar/indexEmpresas.php on line 49
+[23-Jan-2018 19:52:21 UTC] PHP Warning:  eregi_replace(): REG_EBRACK in /home2/administrator/turns.aldamada.com.ar/indexEmpresas.php on line 49
+[23-Jan-2018 19:52:23 UTC] PHP Deprecated:  Function eregi_replace() is deprecated in /home2/administrator/turns.aldamada.com.ar/indexEmpresas.php on line 49
+[23-Jan-2018 19:52:23 UTC] PHP Warning:  eregi_replace(): REG_EBRACK in /home2/administrator/turns.aldamada.com.ar/indexEmpresas.php on line 49
+[23-Jan-2018 19:52:23 UTC] PHP Deprecated:  Function eregi_replace() is deprecated in /home2/administrator/turns.aldamada.com.ar/indexEmpresas.php on line 49
+[23-Jan-2018 19:52:23 UTC] PHP Warning:  eregi_replace(): REG_EBRACK in /home2/administrator/turns.aldamada.com.ar/indexEmpresas.php on line 49
+[23-Jan-2018 19:52:23 UTC] PHP Deprecated:  Function eregi_replace() is deprecated in /home2/administrator/turns.aldamada.com.ar/indexEmpresas.php on line 49
+[23-Jan-2018 19:52:23 UTC] PHP Warning:  eregi_replace(): REG_EBRACK in /home2/administrator/turns.aldamada.com.ar/indexEmpresas.php on line 49
+[23-Jan-2018 19:52:49 UTC] PHP Deprecated:  Function eregi_replace() is deprecated in /home2/administrator/turns.aldamada.com.ar/indexEmpresas.php on line 49
+[23-Jan-2018 19:52:49 UTC] PHP Deprecated:  Function eregi_replace() is deprecated in /home2/administrator/turns.aldamada.com.ar/indexEmpresas.php on line 49
+[23-Jan-2018 19:52:49 UTC] PHP Deprecated:  Function eregi_replace() is deprecated in /home2/administrator/turns.aldamada.com.ar/indexEmpresas.php on line 49
+[23-Jan-2018 19:53:28 UTC] PHP Deprecated:  Function eregi_replace() is deprecated in /home2/administrator/turns.aldamada.com.ar/indexEmpresas.php on line 49
+[23-Jan-2018 19:53:28 UTC] PHP Warning:  eregi_replace(): REG_EBRACK in /home2/administrator/turns.aldamada.com.ar/indexEmpresas.php on line 49
+[23-Jan-2018 19:53:28 UTC] PHP Deprecated:  Function eregi_replace() is deprecated in /home2/administrator/turns.aldamada.com.ar/indexEmpresas.php on line 49
+[23-Jan-2018 19:53:28 UTC] PHP Warning:  eregi_replace(): REG_EBRACK in /home2/administrator/turns.aldamada.com.ar/indexEmpresas.php on line 49
+[23-Jan-2018 19:53:28 UTC] PHP Deprecated:  Function eregi_replace() is deprecated in /home2/administrator/turns.aldamada.com.ar/indexEmpresas.php on line 49
+[23-Jan-2018 19:53:28 UTC] PHP Warning:  eregi_replace(): REG_EBRACK in /home2/administrator/turns.aldamada.com.ar/indexEmpresas.php on line 49
+[23-Jan-2018 19:54:36 UTC] PHP Deprecated:  Function eregi_replace() is deprecated in /home2/administrator/turns.aldamada.com.ar/indexEmpresas.php on line 49
+[23-Jan-2018 19:54:36 UTC] PHP Deprecated:  Function eregi_replace() is deprecated in /home2/administrator/turns.aldamada.com.ar/indexEmpresas.php on line 49
+[23-Jan-2018 19:54:36 UTC] PHP Deprecated:  Function eregi_replace() is deprecated in /home2/administrator/turns.aldamada.com.ar/indexEmpresas.php on line 49
+[23-Jan-2018 19:55:03 UTC] PHP Deprecated:  Function eregi_replace() is deprecated in /home2/administrator/turns.aldamada.com.ar/indexEmpresas.php on line 49
+[23-Jan-2018 19:55:03 UTC] PHP Warning:  eregi_replace(): REG_EBRACK in /home2/administrator/turns.aldamada.com.ar/indexEmpresas.php on line 49
+[23-Jan-2018 19:55:03 UTC] PHP Deprecated:  Function eregi_replace() is deprecated in /home2/administrator/turns.aldamada.com.ar/indexEmpresas.php on line 49
+[23-Jan-2018 19:55:03 UTC] PHP Warning:  eregi_replace(): REG_EBRACK in /home2/administrator/turns.aldamada.com.ar/indexEmpresas.php on line 49
+[23-Jan-2018 19:55:03 UTC] PHP Deprecated:  Function eregi_replace() is deprecated in /home2/administrator/turns.aldamada.com.ar/indexEmpresas.php on line 49
+[23-Jan-2018 19:55:03 UTC] PHP Warning:  eregi_replace(): REG_EBRACK in /home2/administrator/turns.aldamada.com.ar/indexEmpresas.php on line 49
+[23-Jan-2018 20:17:32 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/administrator/turns.aldamada.com.ar/indexRecursos.php on line 51
+[23-Jan-2018 20:52:31 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/administrator/turns.aldamada.com.ar/indexRecursos.php on line 51
+[23-Jan-2018 20:52:33 UTC] PHP Fatal error:  Cannot redeclare class Database in /home2/administrator/turns.aldamada.com.ar/Database.php on line 2
+[23-Jan-2018 20:52:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/administrator/turns.aldamada.com.ar/indexRecursos.php on line 51
+[23-Jan-2018 20:52:55 UTC] PHP Fatal error:  Cannot redeclare class Database in /home2/administrator/turns.aldamada.com.ar/Database.php on line 2
+[23-Jan-2018 20:55:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/administrator/turns.aldamada.com.ar/indexRecursos.php on line 51
+[23-Jan-2018 20:55:21 UTC] PHP Fatal error:  Cannot redeclare class Database in /home2/administrator/turns.aldamada.com.ar/Database.php on line 2
+[23-Jan-2018 21:02:18 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/administrator/turns.aldamada.com.ar/indexRecursos.php on line 51
+[23-Jan-2018 21:02:19 UTC] PHP Fatal error:  Cannot redeclare class Database in /home2/administrator/turns.aldamada.com.ar/Database.php on line 2
+[23-Jan-2018 21:06:13 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/administrator/turns.aldamada.com.ar/indexRecursos.php on line 51
+[23-Jan-2018 21:06:17 UTC] PHP Fatal error:  Cannot redeclare class Database in /home2/administrator/turns.aldamada.com.ar/Database.php on line 2
+[23-Jan-2018 21:08:15 UTC] PHP Fatal error:  Cannot redeclare class Database in /home2/administrator/turns.aldamada.com.ar/Database.php on line 2
+[23-Jan-2018 21:08:22 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/administrator/turns.aldamada.com.ar/indexRecursos.php on line 51
+[23-Jan-2018 21:08:23 UTC] PHP Fatal error:  Cannot redeclare class Database in /home2/administrator/turns.aldamada.com.ar/Database.php on line 2
+[23-Jan-2018 21:08:47 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/administrator/turns.aldamada.com.ar/indexRecursos.php on line 51
+[23-Jan-2018 21:08:49 UTC] PHP Fatal error:  Cannot redeclare class Database in /home2/administrator/turns.aldamada.com.ar/Database.php on line 2
+[23-Jan-2018 21:10:04 UTC] PHP Fatal error:  Cannot redeclare class Database in /home2/administrator/turns.aldamada.com.ar/Database.php on line 2
+[23-Jan-2018 21:11:45 UTC] PHP Fatal error:  Cannot redeclare class Database in /home2/administrator/turns.aldamada.com.ar/Database.php on line 2
+[23-Jan-2018 21:13:20 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/administrator/turns.aldamada.com.ar/indexRecursos.php on line 51
+[23-Jan-2018 21:27:29 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/administrator/turns.aldamada.com.ar/indexRecursos.php on line 51
+[23-Jan-2018 21:28:05 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/administrator/turns.aldamada.com.ar/indexRecursos.php on line 51
+[23-Jan-2018 21:28:12 UTC] PHP Deprecated:  mysql_insert_id(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home2/administrator/turns.aldamada.com.ar/createRecursos.php on line 38
+[23-Jan-2018 21:28:12 UTC] PHP Warning:  mysql_insert_id(): Access denied for user ''@'zeus.servidoraweb.net' (using password: NO) in /home2/administrator/turns.aldamada.com.ar/createRecursos.php on line 38
+[23-Jan-2018 21:28:12 UTC] PHP Warning:  mysql_insert_id(): A link to the server could not be established in /home2/administrator/turns.aldamada.com.ar/createRecursos.php on line 38
+[23-Jan-2018 21:28:12 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'ID_Sucursal' cannot be null' in /home2/administrator/turns.aldamada.com.ar/createRecursos.php:45
+Stack trace:
+#0 /home2/administrator/turns.aldamada.com.ar/createRecursos.php(45): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home2/administrator/turns.aldamada.com.ar/createRecursos.php on line 45
+[23-Jan-2018 21:28:30 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/administrator/turns.aldamada.com.ar/indexRecursos.php on line 51
+[23-Jan-2018 21:30:19 UTC] PHP Deprecated:  mysql_insert_id(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home2/administrator/turns.aldamada.com.ar/createRecursos.php on line 38
+[23-Jan-2018 21:30:19 UTC] PHP Warning:  mysql_insert_id(): Access denied for user ''@'zeus.servidoraweb.net' (using password: NO) in /home2/administrator/turns.aldamada.com.ar/createRecursos.php on line 38
+[23-Jan-2018 21:30:19 UTC] PHP Warning:  mysql_insert_id(): A link to the server could not be established in /home2/administrator/turns.aldamada.com.ar/createRecursos.php on line 38
+[23-Jan-2018 21:30:19 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'ID_Sucursal' cannot be null' in /home2/administrator/turns.aldamada.com.ar/createRecursos.php:45
+Stack trace:
+#0 /home2/administrator/turns.aldamada.com.ar/createRecursos.php(45): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home2/administrator/turns.aldamada.com.ar/createRecursos.php on line 45
+[23-Jan-2018 21:33:42 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/administrator/turns.aldamada.com.ar/indexRecursos.php on line 51
+[23-Jan-2018 21:38:44 UTC] PHP Parse error:  syntax error, unexpected 'var' (T_VAR) in /home2/administrator/turns.aldamada.com.ar/createRecursos.php on line 41
+[23-Jan-2018 21:40:47 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/administrator/turns.aldamada.com.ar/indexRecursos.php on line 51
+[23-Jan-2018 21:40:49 UTC] PHP Parse error:  syntax error, unexpected 'var' (T_VAR) in /home2/administrator/turns.aldamada.com.ar/createRecursos.php on line 41
+[23-Jan-2018 21:44:24 UTC] PHP Parse error:  syntax error, unexpected '=' in /home2/administrator/turns.aldamada.com.ar/createRecursos.php on line 41
+[23-Jan-2018 21:44:36 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/administrator/turns.aldamada.com.ar/indexRecursos.php on line 51
+[23-Jan-2018 21:44:37 UTC] PHP Parse error:  syntax error, unexpected '=' in /home2/administrator/turns.aldamada.com.ar/createRecursos.php on line 41
+[23-Jan-2018 21:45:06 UTC] PHP Parse error:  syntax error, unexpected '=' in /home2/administrator/turns.aldamada.com.ar/createRecursos.php on line 41
+[23-Jan-2018 21:53:21 UTC] PHP Deprecated:  mysql_insert_id(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home2/administrator/turns.aldamada.com.ar/createRecursos.php on line 39
+[23-Jan-2018 21:53:21 UTC] PHP Warning:  mysql_insert_id(): Access denied for user ''@'zeus.servidoraweb.net' (using password: NO) in /home2/administrator/turns.aldamada.com.ar/createRecursos.php on line 39
+[23-Jan-2018 21:53:21 UTC] PHP Warning:  mysql_insert_id(): A link to the server could not be established in /home2/administrator/turns.aldamada.com.ar/createRecursos.php on line 39
+[23-Jan-2018 21:53:21 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/administrator/turns.aldamada.com.ar/createRecursos.php on line 95
+[23-Jan-2018 21:53:21 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/administrator/turns.aldamada.com.ar/indexRecursos.php on line 51
+[23-Jan-2018 22:01:02 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/administrator/turns.aldamada.com.ar/indexRecursos.php on line 51
+[23-Jan-2018 22:01:15 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/administrator/turns.aldamada.com.ar/createRecursos.php on line 95
+[23-Jan-2018 22:01:15 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/administrator/turns.aldamada.com.ar/indexRecursos.php on line 51
+[23-Jan-2018 22:05:27 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/administrator/turns.aldamada.com.ar/indexRecursos.php on line 53
+[23-Jan-2018 22:05:52 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/administrator/turns.aldamada.com.ar/indexRecursos.php on line 53
+[23-Jan-2018 22:07:39 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/administrator/turns.aldamada.com.ar/createRecursos.php on line 95
+[23-Jan-2018 22:07:39 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/administrator/turns.aldamada.com.ar/indexRecursos.php on line 53
+[23-Jan-2018 22:19:25 UTC] PHP Parse error:  syntax error, unexpected 'en' (T_STRING) in /home2/administrator/turns.aldamada.com.ar/createSucursales.php on line 38
+[23-Jan-2018 22:20:31 UTC] PHP Parse error:  syntax error, unexpected 'en' (T_STRING) in /home2/administrator/turns.aldamada.com.ar/createSucursales.php on line 38
+[23-Jan-2018 22:23:53 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/administrator/turns.aldamada.com.ar/indexSucursales.php on line 47
+[23-Jan-2018 22:24:29 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/administrator/turns.aldamada.com.ar/indexUsuarios.php on line 47
+[23-Jan-2018 22:25:20 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/administrator/turns.aldamada.com.ar/indexUsuarios.php on line 47
+[23-Jan-2018 22:29:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/administrator/turns.aldamada.com.ar/indexUsuarios.php on line 51
+[23-Jan-2018 22:29:29 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/administrator/turns.aldamada.com.ar/indexUsuarios.php on line 51
+[23-Jan-2018 22:29:32 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/administrator/turns.aldamada.com.ar/indexUsuarios.php on line 51
+[23-Jan-2018 22:36:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/administrator/turns.aldamada.com.ar/indexUsuarios.php on line 51
+[23-Jan-2018 22:43:24 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/administrator/turns.aldamada.com.ar/indexUsuarios.php on line 53
+[23-Jan-2018 22:45:19 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'tipodeusuario' in 'field list'' in /home2/administrator/turns.aldamada.com.ar/createUsuarios.php:54
+Stack trace:
+#0 /home2/administrator/turns.aldamada.com.ar/createUsuarios.php(54): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home2/administrator/turns.aldamada.com.ar/createUsuarios.php on line 54
+[23-Jan-2018 22:46:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/administrator/turns.aldamada.com.ar/indexUsuarios.php on line 53
+[23-Jan-2018 22:48:37 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/administrator/turns.aldamada.com.ar/createUsuarios.php on line 129
+[23-Jan-2018 22:53:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/administrator/turns.aldamada.com.ar/createUsuarios.php on line 140
+[23-Jan-2018 22:53:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/administrator/turns.aldamada.com.ar/indexUsuarios.php on line 53
+[24-Jan-2018 12:01:30 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/administrator/turns.aldamada.com.ar/indexUsuarios.php on line 54
+[24-Jan-2018 12:23:56 UTC] PHP Parse error:  syntax error, unexpected '$pass' (T_VARIABLE) in /home2/administrator/turns.aldamada.com.ar/login.php on line 10
+[24-Jan-2018 12:25:35 UTC] PHP Parse error:  syntax error, unexpected 'Database' (T_STRING) in /home2/administrator/turns.aldamada.com.ar/login.php on line 7
+[24-Jan-2018 12:25:51 UTC] PHP Parse error:  syntax error, unexpected 'Database' (T_STRING) in /home2/administrator/turns.aldamada.com.ar/login.php on line 7
+[24-Jan-2018 12:30:08 UTC] PHP Parse error:  syntax error, unexpected 'Database' (T_STRING) in /home2/administrator/turns.aldamada.com.ar/login.php on line 8
+[24-Jan-2018 12:31:20 UTC] PHP Fatal error:  Cannot use object of type PDOStatement as array in /home2/administrator/turns.aldamada.com.ar/login.php on line 11
+[24-Jan-2018 12:31:35 UTC] PHP Fatal error:  Cannot use object of type PDOStatement as array in /home2/administrator/turns.aldamada.com.ar/login.php on line 11
+[24-Jan-2018 12:34:43 UTC] PHP Fatal error:  Cannot use object of type PDOStatement as array in /home2/administrator/turns.aldamada.com.ar/login.php on line 10
+[24-Jan-2018 12:34:55 UTC] PHP Fatal error:  Cannot use object of type PDOStatement as array in /home2/administrator/turns.aldamada.com.ar/login.php on line 10
+[24-Jan-2018 12:35:11 UTC] PHP Fatal error:  Cannot use object of type PDOStatement as array in /home2/administrator/turns.aldamada.com.ar/login.php on line 10
+[24-Jan-2018 12:37:11 UTC] PHP Fatal error:  Cannot use object of type PDOStatement as array in /home2/administrator/turns.aldamada.com.ar/login.php on line 10
+[24-Jan-2018 12:37:36 UTC] PHP Fatal error:  Cannot use object of type PDOStatement as array in /home2/administrator/turns.aldamada.com.ar/login.php on line 10
+[24-Jan-2018 12:39:36 UTC] PHP Fatal error:  Cannot use object of type PDOStatement as array in /home2/administrator/turns.aldamada.com.ar/login.php on line 10
+[24-Jan-2018 12:50:11 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home2/administrator/turns.aldamada.com.ar/login.php on line 5
+[24-Jan-2018 12:50:33 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home2/administrator/turns.aldamada.com.ar/login.php on line 5
+[24-Jan-2018 12:52:32 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home2/administrator/turns.aldamada.com.ar/login.php on line 5
+[24-Jan-2018 12:52:42 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home2/administrator/turns.aldamada.com.ar/login.php on line 5
+[24-Jan-2018 12:56:04 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home2/administrator/turns.aldamada.com.ar/login.php on line 5
+[24-Jan-2018 13:01:17 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home2/administrator/turns.aldamada.com.ar/login.php on line 5
+[24-Jan-2018 13:05:26 UTC] PHP Fatal error:  Cannot use object of type PDOStatement as array in /home2/administrator/turns.aldamada.com.ar/login.php on line 10
+[24-Jan-2018 14:01:50 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/administrator/turns.aldamada.com.ar/indexEmpresas.php on line 48
+[24-Jan-2018 14:05:02 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/administrator/turns.aldamada.com.ar/indexEmpresas.php on line 48
+[24-Jan-2018 14:05:56 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/administrator/turns.aldamada.com.ar/indexEmpresas.php on line 48
+[24-Jan-2018 14:09:16 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/administrator/turns.aldamada.com.ar/indexEmpresas.php on line 48
+[24-Jan-2018 14:09:32 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/administrator/turns.aldamada.com.ar/indexEmpresas.php on line 48
+[24-Jan-2018 14:10:58 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/administrator/turns.aldamada.com.ar/indexEmpresas.php on line 51
+[24-Jan-2018 14:11:14 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/administrator/turns.aldamada.com.ar/indexEmpresas.php on line 51
+[24-Jan-2018 14:21:02 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/administrator/turns.aldamada.com.ar/indexRecursos.php on line 53
+[24-Jan-2018 14:21:10 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/administrator/turns.aldamada.com.ar/indexRecursos.php on line 53
+[24-Jan-2018 14:57:24 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/administrator/turns.aldamada.com.ar/indexRecursos.php:13) in /home2/administrator/turns.aldamada.com.ar/indexRecursos.php on line 14
+[24-Jan-2018 14:58:22 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/administrator/turns.aldamada.com.ar/indexRecursos.php:13) in /home2/administrator/turns.aldamada.com.ar/indexRecursos.php on line 14
+[24-Jan-2018 14:58:54 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/administrator/turns.aldamada.com.ar/indexRecursos.php:13) in /home2/administrator/turns.aldamada.com.ar/indexRecursos.php on line 14
+[24-Jan-2018 14:59:32 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/administrator/turns.aldamada.com.ar/indexRecursos.php:13) in /home2/administrator/turns.aldamada.com.ar/indexRecursos.php on line 14
+[24-Jan-2018 15:01:13 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/administrator/turns.aldamada.com.ar/indexRecursos.php:13) in /home2/administrator/turns.aldamada.com.ar/indexRecursos.php on line 14
+[24-Jan-2018 15:01:19 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/administrator/turns.aldamada.com.ar/indexRecursos.php:13) in /home2/administrator/turns.aldamada.com.ar/indexRecursos.php on line 14
+[24-Jan-2018 15:01:23 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/administrator/turns.aldamada.com.ar/indexRecursos.php:13) in /home2/administrator/turns.aldamada.com.ar/indexRecursos.php on line 14
+[24-Jan-2018 15:01:27 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/administrator/turns.aldamada.com.ar/indexRecursos.php:13) in /home2/administrator/turns.aldamada.com.ar/indexRecursos.php on line 14
+[24-Jan-2018 15:02:47 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/administrator/turns.aldamada.com.ar/indexRecursos.php:13) in /home2/administrator/turns.aldamada.com.ar/indexRecursos.php on line 14
+[24-Jan-2018 15:03:03 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/administrator/turns.aldamada.com.ar/indexSucursales.php on line 54
+[24-Jan-2018 15:05:27 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/administrator/turns.aldamada.com.ar/indexSucursales.php on line 54
+[24-Jan-2018 15:05:32 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/administrator/turns.aldamada.com.ar/indexRecursos.php:13) in /home2/administrator/turns.aldamada.com.ar/indexRecursos.php on line 14
+[24-Jan-2018 15:05:35 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/administrator/turns.aldamada.com.ar/indexRecursos.php:13) in /home2/administrator/turns.aldamada.com.ar/indexRecursos.php on line 14
+[24-Jan-2018 15:05:35 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/administrator/turns.aldamada.com.ar/indexRecursos.php on line 62
+[24-Jan-2018 15:05:50 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/administrator/turns.aldamada.com.ar/indexClientes.php on line 58
+[24-Jan-2018 15:08:08 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting ',' or ';' in /home2/administrator/turns.aldamada.com.ar/indexEmpresas.php on line 60
+[24-Jan-2018 15:08:46 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting ',' or ';' in /home2/administrator/turns.aldamada.com.ar/indexEmpresas.php on line 60
+[24-Jan-2018 15:08:55 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting ',' or ';' in /home2/administrator/turns.aldamada.com.ar/indexEmpresas.php on line 60
+[24-Jan-2018 15:09:08 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting ',' or ';' in /home2/administrator/turns.aldamada.com.ar/indexEmpresas.php on line 60
+[24-Jan-2018 15:10:16 UTC] PHP Parse error:  syntax error, unexpected '}' in /home2/administrator/turns.aldamada.com.ar/indexEmpresas.php on line 78
+[24-Jan-2018 15:10:19 UTC] PHP Parse error:  syntax error, unexpected '}' in /home2/administrator/turns.aldamada.com.ar/indexEmpresas.php on line 78
+[24-Jan-2018 15:14:24 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/administrator/turns.aldamada.com.ar/indexRecursos.php:13) in /home2/administrator/turns.aldamada.com.ar/indexRecursos.php on line 14
+[24-Jan-2018 15:24:57 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/administrator/turns.aldamada.com.ar/indexSucursales.php on line 54
+[24-Jan-2018 15:26:36 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/administrator/turns.aldamada.com.ar/indexSucursales.php on line 54
+[24-Jan-2018 15:26:53 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/administrator/turns.aldamada.com.ar/indexSucursales.php on line 54
+[24-Jan-2018 15:26:58 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/administrator/turns.aldamada.com.ar/indexSucursales.php on line 54
+[24-Jan-2018 15:27:02 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/administrator/turns.aldamada.com.ar/indexSucursales.php on line 54
+[24-Jan-2018 15:27:35 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/administrator/turns.aldamada.com.ar/indexSucursales.php on line 54
+[24-Jan-2018 15:27:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/administrator/turns.aldamada.com.ar/indexSucursales.php on line 54
+[24-Jan-2018 15:27:52 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/administrator/turns.aldamada.com.ar/indexSucursales.php on line 54
+[24-Jan-2018 15:28:59 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/administrator/turns.aldamada.com.ar/indexSucursales.php on line 54
+[24-Jan-2018 15:29:43 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/administrator/turns.aldamada.com.ar/indexSucursales.php on line 54
+[24-Jan-2018 15:29:47 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/administrator/turns.aldamada.com.ar/indexSucursales.php on line 54
+[24-Jan-2018 15:30:08 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/administrator/turns.aldamada.com.ar/indexSucursales.php on line 54
+[24-Jan-2018 18:12:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/administrator/turns.aldamada.com.ar/Header_menu.php:19) in /home2/administrator/turns.aldamada.com.ar/createSucursales.php on line 39
+[24-Jan-2018 18:13:33 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/administrator/turns.aldamada.com.ar/Header_menu.php:19) in /home2/administrator/turns.aldamada.com.ar/createSucursales.php on line 39
+[24-Jan-2018 18:15:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/administrator/turns.aldamada.com.ar/Header_menu.php:19) in /home2/administrator/turns.aldamada.com.ar/createSucursales.php on line 39
+[24-Jan-2018 18:18:18 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/administrator/turns.aldamada.com.ar/indexUsuarios.php on line 61
+[24-Jan-2018 18:18:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/administrator/turns.aldamada.com.ar/indexUsuarios.php on line 61
+[24-Jan-2018 18:20:03 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/administrator/turns.aldamada.com.ar/Header_menu.php:19) in /home2/administrator/turns.aldamada.com.ar/createSucursales.php on line 39
+[24-Jan-2018 18:23:17 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/administrator/turns.aldamada.com.ar/Header_menu.php:19) in /home2/administrator/turns.aldamada.com.ar/createSucursales.php on line 39
+[24-Jan-2018 18:27:32 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/administrator/turns.aldamada.com.ar/Header_menu.php:19) in /home2/administrator/turns.aldamada.com.ar/createSucursales.php on line 39
+[24-Jan-2018 18:30:55 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/administrator/turns.aldamada.com.ar/Header_menu.php:19) in /home2/administrator/turns.aldamada.com.ar/createSucursales.php on line 39
+[24-Jan-2018 18:34:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/administrator/turns.aldamada.com.ar/Header_menu.php:19) in /home2/administrator/turns.aldamada.com.ar/createEmpresas.php on line 55
+[24-Jan-2018 18:43:03 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/administrator/turns.aldamada.com.ar/indexClientes.php on line 58
+[24-Jan-2018 18:45:16 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/administrator/turns.aldamada.com.ar/indexClientes.php on line 58
+[24-Jan-2018 18:45:22 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/administrator/turns.aldamada.com.ar/indexClientes.php on line 58
+[24-Jan-2018 18:45:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/administrator/turns.aldamada.com.ar/indexClientes.php on line 58
+[24-Jan-2018 18:47:56 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/administrator/turns.aldamada.com.ar/indexClientes.php on line 58
+[24-Jan-2018 18:51:47 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/administrator/turns.aldamada.com.ar/indexEmpresas.php on line 49
+[24-Jan-2018 19:12:26 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/administrator/turns.aldamada.com.ar/indexRecursos.php:14) in /home2/administrator/turns.aldamada.com.ar/indexRecursos.php on line 15
+[24-Jan-2018 19:12:43 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/administrator/turns.aldamada.com.ar/createRecursos.php on line 104
+[24-Jan-2018 19:13:25 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/administrator/turns.aldamada.com.ar/indexRecursos.php:14) in /home2/administrator/turns.aldamada.com.ar/indexRecursos.php on line 15
+[24-Jan-2018 19:13:41 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/administrator/turns.aldamada.com.ar/indexRecursos.php:14) in /home2/administrator/turns.aldamada.com.ar/indexRecursos.php on line 15
+[24-Jan-2018 19:14:04 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/administrator/turns.aldamada.com.ar/indexRecursos.php:14) in /home2/administrator/turns.aldamada.com.ar/indexRecursos.php on line 15
+[24-Jan-2018 19:16:22 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/administrator/turns.aldamada.com.ar/indexRecursos.php:14) in /home2/administrator/turns.aldamada.com.ar/indexRecursos.php on line 15
+[24-Jan-2018 19:16:28 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/administrator/turns.aldamada.com.ar/indexRecursos.php:14) in /home2/administrator/turns.aldamada.com.ar/indexRecursos.php on line 15
+[24-Jan-2018 19:16:52 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/administrator/turns.aldamada.com.ar/indexRecursos.php:14) in /home2/administrator/turns.aldamada.com.ar/indexRecursos.php on line 15
+[24-Jan-2018 19:17:03 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/administrator/turns.aldamada.com.ar/indexRecursos.php:14) in /home2/administrator/turns.aldamada.com.ar/indexRecursos.php on line 15
+[24-Jan-2018 19:17:07 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/administrator/turns.aldamada.com.ar/indexRecursos.php:14) in /home2/administrator/turns.aldamada.com.ar/indexRecursos.php on line 15
+[24-Jan-2018 19:56:53 UTC] PHP Parse error:  syntax error, unexpected 'IF' (T_IF) in /home2/administrator/turns.aldamada.com.ar/indexUsuarios.php on line 67
+[24-Jan-2018 19:58:53 UTC] PHP Parse error:  syntax error, unexpected '.' in /home2/administrator/turns.aldamada.com.ar/indexUsuarios.php on line 67
+[24-Jan-2018 19:58:57 UTC] PHP Parse error:  syntax error, unexpected '.' in /home2/administrator/turns.aldamada.com.ar/indexUsuarios.php on line 67
+[24-Jan-2018 20:00:38 UTC] PHP Parse error:  syntax error, unexpected '.' in /home2/administrator/turns.aldamada.com.ar/indexUsuarios.php on line 67
+[24-Jan-2018 20:00:41 UTC] PHP Parse error:  syntax error, unexpected '.' in /home2/administrator/turns.aldamada.com.ar/indexUsuarios.php on line 67
+[24-Jan-2018 21:41:09 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/administrator/turns.aldamada.com.ar/indexRecursos.php:14) in /home2/administrator/turns.aldamada.com.ar/indexRecursos.php on line 15
+[24-Jan-2018 23:00:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/administrator/turns.aldamada.com.ar/indexEmpresas.php on line 49
+[25-Jan-2018 13:36:32 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/administrator/turns.aldamada.com.ar/indexRecursos.php:14) in /home2/administrator/turns.aldamada.com.ar/indexRecursos.php on line 15
+[25-Jan-2018 13:37:21 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/administrator/turns.aldamada.com.ar/indexRecursos.php:14) in /home2/administrator/turns.aldamada.com.ar/indexRecursos.php on line 15
+[25-Jan-2018 13:38:57 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/administrator/turns.aldamada.com.ar/indexRecursos.php:14) in /home2/administrator/turns.aldamada.com.ar/indexRecursos.php on line 15
+[25-Jan-2018 14:06:59 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/administrator/turns.aldamada.com.ar/indexRecursos.php:14) in /home2/administrator/turns.aldamada.com.ar/indexRecursos.php on line 15
+[25-Jan-2018 14:08:07 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/administrator/turns.aldamada.com.ar/indexRecursos.php:14) in /home2/administrator/turns.aldamada.com.ar/indexRecursos.php on line 15
+[25-Jan-2018 18:08:43 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/administrator/turns.aldamada.com.ar/indexRecursos.php:14) in /home2/administrator/turns.aldamada.com.ar/indexRecursos.php on line 15
+[25-Jan-2018 18:08:57 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/administrator/turns.aldamada.com.ar/indexRecursos.php:14) in /home2/administrator/turns.aldamada.com.ar/indexRecursos.php on line 15
+[27-Jan-2018 17:38:43 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/administrator/turns.aldamada.com.ar/indexSucursales.php on line 53
+[27-Jan-2018 17:45:07 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/administrator/turns.aldamada.com.ar/indexRecursos.php:14) in /home2/administrator/turns.aldamada.com.ar/indexRecursos.php on line 15
+[27-Jan-2018 18:45:11 UTC] PHP Parse error:  syntax error, unexpected '' and UES.RecDel='' (T_CONSTANT_ENCAPSED_STRING) in /home2/administrator/turns.aldamada.com.ar/login.php on line 33
+[27-Jan-2018 18:46:14 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home2/administrator/turns.aldamada.com.ar/login.php on line 33
+[27-Jan-2018 18:46:44 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home2/administrator/turns.aldamada.com.ar/login.php on line 33
+[27-Jan-2018 18:47:52 UTC] PHP Parse error:  syntax error, unexpected '' ORDER BY Nombre ASC'' (T_CONSTANT_ENCAPSED_STRING) in /home2/administrator/turns.aldamada.com.ar/indexEmpresas.php on line 47
+[27-Jan-2018 18:48:02 UTC] PHP Parse error:  syntax error, unexpected '' ORDER BY Nombre ASC'' (T_CONSTANT_ENCAPSED_STRING) in /home2/administrator/turns.aldamada.com.ar/indexEmpresas.php on line 47
+[27-Jan-2018 18:48:14 UTC] PHP Parse error:  syntax error, unexpected '' ORDER BY Nombre ASC'' (T_CONSTANT_ENCAPSED_STRING) in /home2/administrator/turns.aldamada.com.ar/indexEmpresas.php on line 47
+[27-Jan-2018 18:50:41 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/administrator/turns.aldamada.com.ar/indexRecursos.php:14) in /home2/administrator/turns.aldamada.com.ar/indexRecursos.php on line 15
+[27-Jan-2018 19:03:10 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens' in /home2/administrator/turns.aldamada.com.ar/createClientes.php:62
+Stack trace:
+#0 /home2/administrator/turns.aldamada.com.ar/createClientes.php(62): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home2/administrator/turns.aldamada.com.ar/createClientes.php on line 62
+[27-Jan-2018 19:04:45 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens' in /home2/administrator/turns.aldamada.com.ar/createClientes.php:62
+Stack trace:
+#0 /home2/administrator/turns.aldamada.com.ar/createClientes.php(62): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home2/administrator/turns.aldamada.com.ar/createClientes.php on line 62
+[27-Jan-2018 19:06:54 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/administrator/turns.aldamada.com.ar/indexRecursos.php:14) in /home2/administrator/turns.aldamada.com.ar/indexRecursos.php on line 15
+[27-Jan-2018 19:07:17 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/administrator/turns.aldamada.com.ar/indexRecursos.php:14) in /home2/administrator/turns.aldamada.com.ar/indexRecursos.php on line 15
+[27-Jan-2018 19:12:07 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/administrator/turns.aldamada.com.ar/indexRecursos.php:14) in /home2/administrator/turns.aldamada.com.ar/indexRecursos.php on line 15
+[27-Jan-2018 19:23:06 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/administrator/turns.aldamada.com.ar/indexRecursos.php:14) in /home2/administrator/turns.aldamada.com.ar/indexRecursos.php on line 15
+[27-Jan-2018 19:23:14 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/administrator/turns.aldamada.com.ar/indexRecursos.php:14) in /home2/administrator/turns.aldamada.com.ar/indexRecursos.php on line 15
+[27-Jan-2018 19:23:17 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/administrator/turns.aldamada.com.ar/indexRecursos.php:14) in /home2/administrator/turns.aldamada.com.ar/indexRecursos.php on line 15
+[27-Jan-2018 19:23:24 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/administrator/turns.aldamada.com.ar/indexRecursos.php:14) in /home2/administrator/turns.aldamada.com.ar/indexRecursos.php on line 15
+[27-Jan-2018 19:23:31 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/administrator/turns.aldamada.com.ar/indexRecursos.php:14) in /home2/administrator/turns.aldamada.com.ar/indexRecursos.php on line 15
+[27-Jan-2018 19:25:40 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/administrator/turns.aldamada.com.ar/indexRecursos.php:14) in /home2/administrator/turns.aldamada.com.ar/indexRecursos.php on line 15
+[27-Jan-2018 19:25:44 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/administrator/turns.aldamada.com.ar/indexRecursos.php:14) in /home2/administrator/turns.aldamada.com.ar/indexRecursos.php on line 15
+[27-Jan-2018 19:26:00 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/administrator/turns.aldamada.com.ar/indexRecursos.php:14) in /home2/administrator/turns.aldamada.com.ar/indexRecursos.php on line 15
+[27-Jan-2018 19:27:06 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/administrator/turns.aldamada.com.ar/indexRecursos.php:14) in /home2/administrator/turns.aldamada.com.ar/indexRecursos.php on line 15
+[27-Jan-2018 19:27:25 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/administrator/turns.aldamada.com.ar/indexRecursos.php:14) in /home2/administrator/turns.aldamada.com.ar/indexRecursos.php on line 15
+[27-Jan-2018 19:27:30 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/administrator/turns.aldamada.com.ar/indexRecursos.php:14) in /home2/administrator/turns.aldamada.com.ar/indexRecursos.php on line 15
+[27-Jan-2018 19:27:35 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/administrator/turns.aldamada.com.ar/indexRecursos.php:14) in /home2/administrator/turns.aldamada.com.ar/indexRecursos.php on line 15
+[27-Jan-2018 19:27:40 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/administrator/turns.aldamada.com.ar/indexRecursos.php:14) in /home2/administrator/turns.aldamada.com.ar/indexRecursos.php on line 15
+[27-Jan-2018 19:27:45 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/administrator/turns.aldamada.com.ar/indexRecursos.php:14) in /home2/administrator/turns.aldamada.com.ar/indexRecursos.php on line 15
+[27-Jan-2018 20:55:13 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/administrator/turns.aldamada.com.ar/indexUsuarios.php on line 66
+[27-Jan-2018 20:55:21 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/administrator/turns.aldamada.com.ar/indexUsuarios.php on line 66
+[27-Jan-2018 20:55:27 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/administrator/turns.aldamada.com.ar/indexUsuarios.php on line 66
+[27-Jan-2018 20:57:34 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/administrator/turns.aldamada.com.ar/indexUsuarios.php on line 66
+[27-Jan-2018 20:57:38 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/administrator/turns.aldamada.com.ar/indexUsuarios.php on line 66
+[27-Jan-2018 20:57:50 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/administrator/turns.aldamada.com.ar/indexUsuarios.php on line 66
+[27-Jan-2018 20:59:31 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/administrator/turns.aldamada.com.ar/indexUsuarios.php on line 66
+[27-Jan-2018 20:59:35 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/administrator/turns.aldamada.com.ar/indexUsuarios.php on line 66
