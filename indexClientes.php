@@ -171,20 +171,7 @@ header("Location: index.php");
 
       });
 
-      $('#createCliente').click(function(){
-        
-       createCliente();
-
-
-      });
-
-
-      $('#deleteCliente').click(function(){
-        
-       deleteCliente();
-
-
-      });
+     
     </script>        
        
     

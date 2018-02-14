@@ -1,22 +1,31 @@
 function deleteCliente(id){
-	idc = "idc=" + id;
+	
 
-	$.ajax({
-		type:"POST",
-		url:"deleteClientes.php",
-		data: idc,
-		success:function(r){
-			if(r==''){
-				alertify.success("CORRECTO, Cliente eliminado :)");
-				$("#tabla").load(" #tabla");		
-			}else{
-				alertify.error("El cliente no se pudo eliminar :(");
+alertify.confirm("Esta seguro de querer borrar este cliente",function(e){
+	if (e){
+
+		idc = "idc=" + id;
+
+		$.ajax({
+			type:"POST",
+			url:"deleteClientes.php",
+			data: idc,
+			success:function(r){
+				if(r==''){
+					alertify.success("CORRECTO, Cliente eliminado :)");
+					$("#tabla").load(" #tabla");		
+				}else{
+					alertify.error("El cliente no se pudo eliminar :(");
+				}
+
 			}
 
-		}
+		})		
 
-	})			  
+	}
 
+
+	})
 
 }
 
